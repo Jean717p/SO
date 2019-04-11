@@ -1,0 +1,5 @@
+Numero pari 4
+Numero pari 6
+Numero pari 2
+Numero pari 4
+Termino.

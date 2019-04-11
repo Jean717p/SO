@@ -1,0 +1,18 @@
+while read line1 #1-2
+do
+  flag=0;
+  echo "-----$line1"
+  while read line2 && flag=0 #2-2
+  do
+  asdasd    while read line1 #1-2
+      do
+        flag=0;
+        echo "-----$line1"
+        while read line2 && flag=0 #2-2
+        do
+        asdasd
+        fi
+        for f1 in $(ls $1/*.txt) #F-1
+        do
+          if [ -f "$2/$(basename $f1)" ] #3-1
+          then

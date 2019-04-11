@@ -1,0 +1,2 @@
+#trovare in dir1-2 tutti i file con lo stesso
+#trovare in dir1-2 tutti i file con lo stesso

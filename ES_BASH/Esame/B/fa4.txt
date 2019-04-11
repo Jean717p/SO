@@ -1,0 +1,2 @@
+for f1 in $(ls $1/*.txt) #F-1
+for f1 in $(ls $1/*.txt) #F-3

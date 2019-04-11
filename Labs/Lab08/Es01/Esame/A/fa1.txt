@@ -1,0 +1,11 @@
+f2="$2/$f1"
+if [ $(echo $1/$f1 | wc -l) -gt $4 ] #1-1
+then
+  if [ $(echo $2/$f2 | wc -l) -gt $4 ] #2-1
+  then
+    while read line1 #1-2
+    do
+      flag=0;
+      echo "-----$line1"
+      while read line2 && flag=0 #2-2
+      do

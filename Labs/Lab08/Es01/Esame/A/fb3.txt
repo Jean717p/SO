@@ -1,0 +1,5 @@
+#creare in dir3 una versione di questi file con estensione:
+#.eq in cui vengono memorizzate le righe uguali
+#.dif che memorizza le righe diverse
+#.cat una concatenazione dei due file
+Elaboro

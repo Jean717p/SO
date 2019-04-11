@@ -1,0 +1,1 @@
+10:echo "Cartella $1";echo "Funzione: $2";

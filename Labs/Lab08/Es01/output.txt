@@ -1,0 +1,6 @@
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/asd.eafon:5:Elaboro
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/A/fb3.txt:5:Elaboro
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/A/fa2.txt:5:Elaboro
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/A/fa2.txt:7:Elaboro
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/B/fb2.txt:3:Elaboro
+/home/jean717p/Scrivania/OS/Labs/Lab08/Es01/Esame/B/fa2.txt:5:Elaboro

@@ -1,0 +1,7 @@
+while read line1 #1-2
+do
+  flag=0;
+  echo "-----$line1"
+  while read line2 && flag=0 #2-2
+  do
+  asdasd

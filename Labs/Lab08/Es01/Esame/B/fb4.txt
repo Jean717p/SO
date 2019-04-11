@@ -1,0 +1,2 @@
+#ricevuti 4 param dir1-2-3 (cartelle) e n intero deve:
+#trovare in dir1-2 tutti i file con lo stesso
